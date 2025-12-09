@@ -19,8 +19,7 @@ To predict TETIS execution times for your specific simulation and hardware confi
 
 ### Step 1: Download and Prepare the Tool
 
-1.  **Download the folder** `TETIS_Time_Predictor.zip` to your local machine.
-2.  **Uncompress the Predictor .zip**. This action will unpack the necessary execution files and the input template.
+1.  **Download the reposiroty** `TETIS_Time_Predictor` to your local machine.
 
 ### Step 2: Define Your Scenario
 
