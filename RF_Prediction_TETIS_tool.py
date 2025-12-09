@@ -16,10 +16,10 @@ from pathlib import Path
 from tqdm import tqdm
 
 __author__ = 'Ing. MSc.  PhD(c) Nicolás Cortés-Torres'
-__copyright__ = "Copyright 2024, NCT"
+__copyright__ = "Copyright 2025, NCT"
 __credits__ = ["Nicolás Cortés-Torres"]
 __license__ = "GIMHA"
-__version__ = "0.1"
+__version__ = "1.0"
 __maintainer__ = "Nicolás Cortés-Torres"
 __email__ = 'ncortor@doctor.upv.es, ingcortest@gmail.com'
 __status__ = "developing"
