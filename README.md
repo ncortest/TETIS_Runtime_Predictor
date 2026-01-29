@@ -1,4 +1,4 @@
-# 🚀 TETIS\_Time\_Predictor: Computational Performance Prediction
+# 🚀 TETIS\_Runtime\_Predictor: Computational Performance Prediction
 
 This repository hosts the **trained Random Forest (RF) predictive tool** designed to estimate the execution time of the **TETIS v9.1** distributed hydrological model.
 
@@ -8,7 +8,7 @@ The tool allows researchers and end-users to forecast runtime based on their spe
 
 | Directory | Content | Description |
 | :--- | :--- | :--- |
-| **`TETIS_time_Predictor.zip`** | Compressed Tool | Contains the core Python scripts, the trained RF models, and the necessary input template (`User_predictor_variables.csv`). |
+| **`TETIS_Runtime_Predictor.zip`** | Compressed Tool | Contains the core Python scripts, the trained RF models, and the necessary input template (`User_predictor_variables.csv`). |
 | **`LICENSE`** | License File | Software license details. |
 
 -----
@@ -19,7 +19,7 @@ To predict TETIS execution times for your specific simulation and hardware confi
 
 ### Step 1: Download and Prepare the Tool
 
-1.  **Download the reposiroty** `TETIS_Time_Predictor` to your local machine.
+1.  **Download the reposiroty** `TETIS_Runtime_Predictor` to your local machine.
 2.  **Uncompress the Predictor .zip**. This action will unpack the necessary execution files and the input template.
 
 ### Step 2: Define Your Scenario
