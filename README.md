@@ -40,6 +40,6 @@ To predict TETIS execution times for your specific simulation and hardware confi
 
 Please cite the associated publication when using this predictive tool or its underlying models:
 
-\[Insert Full Article Title Here]
+* Scalability and Computational Performance of an Ecohydrological Model Using Machine Learning-Based Prediction
 
-**DOI:** \[Insert Article DOI Here]
+* **DOI:** https://doi.org/10.3390/w18040466
